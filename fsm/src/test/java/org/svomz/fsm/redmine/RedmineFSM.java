@@ -1,5 +1,10 @@
-package org.svomz.fsm;
+package org.svomz.fsm.redmine;
 
+
+import org.svomz.fsm.AbstractFSM;
+import org.svomz.fsm.FSMBuilder;
+import org.svomz.fsm.FSMGraphvizGenerator;
+import org.svomz.fsm.Status;
 
 public class RedmineFSM extends AbstractFSM<Status, RedmineFSMContext> {
 

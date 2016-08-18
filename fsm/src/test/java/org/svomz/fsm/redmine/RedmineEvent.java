@@ -1,4 +1,4 @@
-package org.svomz.fsm;
+package org.svomz.fsm.redmine;
 
 import org.svomz.fsm.Event;
 
