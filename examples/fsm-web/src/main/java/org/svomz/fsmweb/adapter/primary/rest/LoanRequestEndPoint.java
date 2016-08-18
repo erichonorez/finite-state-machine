@@ -1,4 +1,4 @@
-package org.svomz.fsmweb.adapters.primary.rest;
+package org.svomz.fsmweb.adapter.primary.rest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;

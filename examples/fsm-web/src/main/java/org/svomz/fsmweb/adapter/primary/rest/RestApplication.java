@@ -1,4 +1,4 @@
-package org.svomz.fsmweb.adapters.primary.rest;
+package org.svomz.fsmweb.adapter.primary.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -8,8 +8,7 @@ import org.springframework.context.annotation.Configuration;
 import org.svomz.fsmweb.application.LoanRequestService;
 import org.svomz.fsmweb.domain.LoanRequestFSMContextRepository;
 import org.svomz.fsmweb.domain.LoanRequestFSMService;
-import org.svomz.fsmweb.org.svomz.fsmweb.secondary.persistence
-  .InMemoryLoanRequestFSMContextRepository;
+import org.svomz.fsmweb.adapter.secondary.persistence.InMemoryLoanRequestFSMContextRepository;
 
 @Configuration
 @ComponentScan

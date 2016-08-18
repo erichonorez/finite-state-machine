@@ -1,4 +1,4 @@
-package org.svomz.fsmweb.org.svomz.fsmweb.secondary.persistence;
+package org.svomz.fsmweb.adapter.secondary.persistence;
 
 import org.svomz.fsmweb.domain.LoanRequestFSMContext;
 import org.svomz.fsmweb.domain.LoanRequestFSMContextRepository;
